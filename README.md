@@ -13,17 +13,17 @@ Code written and executed using MATLAB
 * Problem Statement
 
 <p align="left">
-  <img width="460" height="300" src="images/pien1.png">
+  <img width="460" height="300" src="images/pien1.PNG">
 </p>
 
 * Solution
 
 <p align="left">
-  <img width="460" height="300" src="images/pien.png">
+  <img width="460" height="300" src="images/pien.PNG">
 </p>
 
 <p align="left">
-  <img width="460" height="300" src="images/pienpien.png">
+  <img width="460" height="300" src="images/pienpien.PNG">
 </p>
 
 * Visualizations
